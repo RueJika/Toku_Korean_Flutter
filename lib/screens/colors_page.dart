@@ -45,6 +45,11 @@ class ColorsPage extends StatelessWidget {
         sound: 'sounds/colors/purple.mp3',
         korean: 'borasaek',
         english: 'Purple'),
+    ItemModel(
+        image: 'assets/images/colors/pink.png',
+        sound: 'sounds/colors/pink.mp3',
+        korean: 'bunhongsaeg',
+        english: 'Pink'),
   ];
 
   @override
